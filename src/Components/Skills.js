@@ -1,8 +1,8 @@
 import React from 'react'; 
 import { CgCPlusPlus } from "react-icons/cg";
 import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaAws, FaJava } from "react-icons/fa";
-import {DiNodejs, DiJavascript1} from "react-icons/di";
-import {SiExpress, SiMongodb, SiPostman, SiCss3, SiRedux, SiTypescript, SiGraphql,  SiNextdotjs, SiTailwindcss } from "react-icons/si";
+import {DiNodejs, DiJavascript1, DiDotnet} from "react-icons/di";
+import {SiExpress, SiMongodb, SiPostman, SiCss3, SiRedux, SiTypescript, SiGraphql,  SiNextdotjs, SiTailwindcss, SiCsharp } from "react-icons/si";
 
 const Skills = ({skill}) => {
     const icon = {
@@ -24,7 +24,9 @@ const Skills = ({skill}) => {
         'Next.js': <SiNextdotjs />,
         Python: <FaPython />,
         Java: <FaJava />,
-        TailwindCSS: <SiTailwindcss />
+        TailwindCSS: <SiTailwindcss />,
+        CSharp: <SiCsharp />,
+        Dotnet: <DiDotnet />
     }
     
   return (

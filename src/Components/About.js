@@ -44,6 +44,8 @@ const About = () => {
         <Skills skill='Redux'/>
         <Skills skill='Graphql'/>
         <Skills skill='Typescript' />
+        <Skills skill='Dotnet' />
+        <Skills skill='CSharp' />
         <Skills skill='Next.js'/>
         <Skills skill='Postman' />
         <Skills skill='AWS' />
