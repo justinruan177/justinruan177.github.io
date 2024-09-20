@@ -29,9 +29,9 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-            I am fluent in <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b> and <b>Java</b>.
+            I am fluent in <b>JavaScript</b>, <b>TypeScript</b>,<b>C#</b>, <b>Python</b> and <b>Java</b>.
             I am also proficient in <b>React.js</b>
-            , <b>Redux</b>, <b>Node.js</b>, <b>Express.js</b> and <b>Next.js</b>. Based on these skills, I also worked on few projects in <b>MERN</b> stack 
+            , <b>Redux</b>, <b>ASP.NEt</b>, <b>Node.js</b>, <b>Express.js</b> and <b>Next.js</b>. 
             <br /><br/>
             I love the process of changing a raw idea into a website or a product 
             that impacts lives. 
