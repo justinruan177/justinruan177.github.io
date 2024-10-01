@@ -11,8 +11,7 @@ const About = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-            Hi, my name is <b>Justin Ruan</b> and I am located in <b>Los Angeles, CA</b>.
-            I'm a <b>full stack web developer</b> with <b>5+ years </b>of experience. <br/><br/>
+            Hi, my name is <b>Justin Ruan</b> and I'm a <b>full stack web developer</b> with <b>5+ years </b>of experience. <br/><br/>
 
             For my most recent project, I worked as a <b>full stack developer</b> for <b>Meetup</b>, a social networking web application that 
             allow users to join groups and arrange events. My major role was on the front-end but I also worked on various backend logic myself.
